@@ -1,2 +1,2 @@
-# Loa-Calculator
-loan calculator with ui
+# Loan-Calculator
+Loan calculator with UserInterface
